@@ -1,0 +1,6 @@
+
+
+from partition import *
+
+
+partition()
